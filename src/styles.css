@@ -1,0 +1,55 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.elieser {
+  font-family: "ALGERIAN", sans-serif;
+  font-size: 40px;
+  color: rgb(1, 235, 1);
+}
+.leiner {
+  font-size: 30px;
+  color: teal;
+  font-family: sans-serif;
+}
+
+.mariana {
+  color: yellow;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+.gustavo {
+  color: orangered;
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.Andres {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40;
+}
+
+.Justin {
+  color: red;
+}
+
+.Michael {
+  color: rgb(148, 33, 148);
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sergio {
+  color: blue;
+  font-family: fantasy, Times, serif;
+  font-size: 50px;
+}
+.melody {
+  color: palevioletred;
+}
+.Cristian {
+  color: rgb(17, 96, 199);
+  font-size: 45px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
